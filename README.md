@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on my personal website<br>I'm currently learning SQL and Computer Graphics<br>I'm interested in learning new things
+I'm working on my personal website<br>Learning SQL and Computer Graphics<br>I'm interested in learning new things
 
 
 ## 🌐 Socials:
