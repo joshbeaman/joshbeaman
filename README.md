@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm working on my personal website<br>Learning SQL and Computer Graphics<br>I'm interested in learning new things
+Currently working a coop at Western Digital as a Devops Engineer Intern<br>
+Main tasks revolve around using Docker and Docker Compose to enable horizontal <br>
+scaling of the app that my team has built.
 
 
 ## 🌐 Socials:
