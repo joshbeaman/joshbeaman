@@ -1,6 +1,6 @@
 # 💫 About Me:
 Currently working a coop at Western Digital as a Devops Engineer Intern<br>
-Main tasks revolve around using Docker and Docker Compose to enable horizontal <br>
+Main tasks include the restructuring of app architecture to enable horizontal <br>
 scaling of the app that my team has built.
 
 
