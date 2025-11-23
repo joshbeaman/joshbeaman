@@ -2,9 +2,7 @@
 Please check out my repositories: 2DGame, GPTJosh and Simple-Node-App
 
 
-Currently working as an intern at Western Digital as a Devops Engineer Intern<br>
-Main tasks include the restructuring of app architecture to enable horizontal <br>
-scaling of the app that my team has built.
+Previously a DevOps Intern at Western Digital and finishing school in Computer Science
 
 
 ## 🌐 Socials:
