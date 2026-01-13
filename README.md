@@ -6,7 +6,7 @@ Check out our product page: [Spectr](https://dandy-elements-644634.framer.app/)
 Please check out my repositories: 2DGame, GPTJosh
 
 
-Previously a DevOps Intern at Western Digital and just recently school at UVic in Computer Science
+Previously a Software Developer Intern at Western Digital; recently finished my Computer Science degree at UVic.
 
 
 ## 🌐 Socials:
