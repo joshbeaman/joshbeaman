@@ -3,10 +3,10 @@ Co-founder at Spectr - we’re building a B2B mobile platform that helps home in
 Check out our product page: [Spectr](https://dandy-elements-644634.framer.app/)
 
 
-Please check out my repositories: 2DGame, GPTJosh
+Please check out my repositories: 2DGame, GPTJosh, or my [Resume](https://github.com/joshbeaman/Resume/blob/main/JoshuaBeamanResume.pdf)
 
 
-Previously a Software Developer Intern at Western Digital; recently finished my Computer Science degree at UVic.
+Previously a Devops / Software Developer Intern at Western Digital; recently finished my Computer Science degree at UVic.
 
 
 ## 🌐 Socials:
