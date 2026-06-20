@@ -3,7 +3,7 @@ Co-founder at Bedrock - we’re building a B2B mobile platform that helps home i
 Check out our product page: [Bedrock](https://www.bedrockinspection.com/)
 
 
-Please check out my repositories: 2DGame, GPTJosh, or my [Resume](https://github.com/joshbeaman/Resume/blob/main/JoshuaBeamanResume.pdf)
+Please check out my repositories: 2DGame or my [Resume](https://github.com/joshbeaman/Resume/blob/main/JoshuaBeamanResume.pdf)
 
 
 Previously a Devops / Software Developer Intern at Western Digital; recently finished my Computer Science degree at UVic.
