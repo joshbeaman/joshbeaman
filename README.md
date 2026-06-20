@@ -1,6 +1,6 @@
 # 💫 About Me:
-Co-founder at Spectr - we’re building a B2B mobile platform that helps home inspectors collect data on‑site and auto‑generate polished reports.
-Check out our product page: [Spectr](https://dandy-elements-644634.framer.app/)
+Co-founder at Bedrock - we’re building a B2B mobile platform that helps home inspectors collect data on‑site and auto‑generate polished reports.
+Check out our product page: [Bedrock](https://www.bedrockinspection.com/)
 
 
 Please check out my repositories: 2DGame, GPTJosh, or my [Resume](https://github.com/joshbeaman/Resume/blob/main/JoshuaBeamanResume.pdf)
